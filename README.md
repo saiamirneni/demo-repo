@@ -1,3 +1,3 @@
 # demo-repo
 
-This is for front end website
+This is first git hub project!
